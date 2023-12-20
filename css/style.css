@@ -26,7 +26,7 @@ body {
 
 /* Стили для шапки сайта */
 .page-header {
-  background-image: url("/img/bg_2.gif");
+  background-image: url("../img/bg_2.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
